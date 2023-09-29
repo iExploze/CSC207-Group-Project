@@ -48,4 +48,5 @@ Link to the Spotify API: https://developer.spotify.com/documentation/web-api.
 We obtained an access token to the spotify API and made a Get request 
 to obtain information about an artist named Radiohead. Below is the screenshot
 of calling API using postman.
-![API_screenshot.jpeg](/Users/floraguo/IdeaProjects/Song-Guesser/photos/API_screenshot.jpeg)
+
+![](photos/API_screenshot.jpeg)
