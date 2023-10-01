@@ -50,3 +50,5 @@ to obtain information about an artist named Radiohead. Below is the screenshot
 of calling API using postman.
 
 ![](photos/API_screenshot.jpeg)
+<img width="1470" alt="Screenshot 2023-10-01 at 09 36 13" src="https://github.com/iExploze/Song-Guesser/assets/54289660/80c2a1ba-a008-40d9-925b-bbf3147c4031">
+
